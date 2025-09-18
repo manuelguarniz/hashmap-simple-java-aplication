@@ -1,1 +1,1 @@
-# hashmap-simple-java-aplicatin
+# hashmap-simple-java-aplication
